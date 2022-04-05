@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Gisele 👋
 
+- 🧠 I'm currently studying Full Stack Web Development Bootcamp at Coder Academy
+- 💪🏾 I'm a Production Engineer switching carrer to become a Web Dev
+- 💻 I'm currently studying CS Fundamentals, HTML, CSS, Ruby on Rails, JavaScript, SQL and React
+- 👩🏿‍🤝‍👩🏽 I'm a AMEP tutor supporting other migrants to settle in Australia
+- 😊 My pronouns: she/her
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **limagisele/limagisele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
