@@ -6,7 +6,7 @@
 - 👩🏿‍🤝‍👩🏽 &emsp; I'm a AMEP tutor supporting other migrants to settle in Australia
 - 😊 &emsp;My pronouns: she/her
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="https://www.linkedin.com/in/limagisele"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
 **limagisele/limagisele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
