@@ -2,7 +2,7 @@
 
 - 🧠 &emsp;I'm currently studying Full Stack Web Development Bootcamp at Coder Academy
 - 💪🏾 &emsp; I'm a Production Engineer switching carrer to become a Web Dev
-- 💻 &emsp;I'm learning CS Fundamentals, HTML, CSS, Ruby on Rails, JavaScript, SQL and React
+- 💻 &emsp;I'm learning CS Fundamentals, HTML, CSS, Ruby on Rails, PostreSQL, JavaScript and React
 - 👩🏿‍🤝‍👩🏽 &emsp; I'm a AMEP tutor supporting other migrants to settle in Australia
 - 😊 &emsp;My pronouns: she/her
 
