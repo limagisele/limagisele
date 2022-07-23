@@ -4,9 +4,9 @@
 
 - 🧠 &emsp; Recently completed Coder Academy Bootcamp
 - 💪🏾 &emsp; Production Engineer switching career to Software Development
-- 💻 &emsp;Tech skills include Ruby on Rails, PostgreSQL, MERN stack, Unit and Integration Testing
+- 💻 &emsp; Tech skills include Ruby on Rails, PostgreSQL, MERN stack, Unit and Integration Testing
 - 👩🏿‍🤝‍👩🏽 &emsp; Proud AMEP tutor supporting recent migrants to settle in Australia
-- 😊 &emsp;Pronouns: she/her
+- 😊 &emsp; Pronouns: she/her
 
 <a href="https://www.linkedin.com/in/limagisele"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
