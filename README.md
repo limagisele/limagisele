@@ -1,6 +1,6 @@
 ### Hi there, I'm Gisele 👋
 
-## And here are some facts about me:
+#### And here are some facts about me:
 
 - 🧠 &emsp; Recently completed Coder Academy Bootcamp
 - 💪🏾 &emsp; Production Engineer switching career to Software Development
