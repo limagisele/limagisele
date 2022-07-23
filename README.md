@@ -1,10 +1,12 @@
 ### Hi there, I'm Gisele 👋
 
-- 🧠 &emsp;I've recently completed Coder Academy Full-Stack Web Dev Bootcamp
-- 💪🏾 &emsp; I'm a Production Engineer switching career to Software Development
+## And here are some facts about me:
+
+- 🧠 &emsp; Recently completed Coder Academy Bootcamp
+- 💪🏾 &emsp; Production Engineer switching career to Software Development
 - 💻 &emsp;Tech skills include Ruby on Rails, PostgreSQL, MERN stack, Unit and Integration Testing
-- 👩🏿‍🤝‍👩🏽 &emsp; I'm an AMEP tutor supporting other migrants to settle in Australia
-- 😊 &emsp;My pronouns: she/her
+- 👩🏿‍🤝‍👩🏽 &emsp; Proud AMEP tutor supporting recent migrants to settle in Australia
+- 😊 &emsp;Pronouns: she/her
 
 <a href="https://www.linkedin.com/in/limagisele"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--
