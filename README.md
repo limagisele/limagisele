@@ -2,9 +2,10 @@
 
 #### And here are some facts about me:
 
-- 🧠 &emsp; Recently completed Coder Academy Bootcamp
-- 💪🏾 &emsp; Production Engineer switching career to Software Development
-- 💻 &emsp; Tech skills include Ruby on Rails, JavaScript, PostgreSQL, MERN stack, Unit and Integration Testing
+- 🧠 &emsp; Software Developer graduated from Coder Academy Bootcamp
+- 🌱 &emsp; Career changer with background in Production Engineering and Lean Manufacturing
+- 💻 &emsp; Tech skills include: 
+  JavaScript, React, Next.js, Node.js, PostgreSQL, MongoDB, REST API, GraphQl, Unit and Integration Testing
 - 👩🏿‍🤝‍👩🏽 &emsp; Proud AMEP tutor supporting recent migrants to settle in Australia
 - 😊 &emsp; Pronouns: she/her
 
