@@ -1,8 +1,8 @@
 ### Hi there, I'm Gisele 👋
 
-#### And here are some facts about me:
+#### And here is a little a bit about me:
 
-- 🧠 &emsp; Software Developer graduated from Coder Academy Bootcamp
+- 🤓 &emsp; Software Developer graduated from Coder Academy Bootcamp
 - 🌱 &emsp; Career changer with background in Production Engineering and Lean Manufacturing
 - 💻 &emsp; Tech skills include: 
   JavaScript, React, Next.js, Node.js, PostgreSQL, MongoDB, REST API, GraphQl, Unit and Integration Testing
